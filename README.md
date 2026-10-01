@@ -2,6 +2,8 @@
 
 A Python program that detects and tracks multiple fish in a video based on their color.
 
+<img width="1151" height="645" alt="image" src="https://github.com/user-attachments/assets/b25ea6ce-88a1-4b2f-b81a-cedbfbaf2182" />
+
 The program uses **OpenCV** to process video frames, identify fish based on HSV color thresholds, detect their positions, and draw their movement trajectories.
 
 The detection parameters, including HSV thresholds and tracking settings, are stored in a separate JSON configuration file so they can be modified without changing the Python code.
@@ -110,7 +112,9 @@ Frames detecting 2 fishes: 120 out of 1000 (12.0 %)
 
 These values indicate how often the expected number of fish, or one fewer fish, was detected.
 
-For a demonstration of the program, see this video: https://www.youtube.com/watch?v=W4X8g2lsMcA
+For a demonstration of the program, click the image below to watch the video:
+
+<a href="https://www.youtube.com/watch?v=W4X8g2lsMcA"> <img width="1151" height="645" alt="Fish detector demonstration" src="https://github.com/user-attachments/assets/b25ea6ce-88a1-4b2f-b81a-cedbfbaf2182" /> </a>
 
 ## Limitations
 
