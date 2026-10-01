@@ -1,0 +1,24 @@
+{
+    "fish_colors": {
+        "o": {
+            "lower": [0, 140, 75],
+            "upper": [20, 255, 255]
+        },
+        "r": {
+            "lower": [170, 200, 20],
+            "upper": [180, 255, 255]
+        },
+        "y": {
+            "lower": [25, 150, 100],
+            "upper": [32, 255, 255]
+        }
+    },
+    "detection": {
+        "tracking_buffer": 32,
+        "minimum_radius": 15,
+        "maximum_tracking_distance": 75,
+        "display_width": 960,
+        "display_height": 540,
+        "wait_time": 15
+    }
+}
