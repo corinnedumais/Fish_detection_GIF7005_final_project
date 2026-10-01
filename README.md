@@ -2,7 +2,7 @@
 
 A Python program that detects and tracks multiple fish in a video based on their color.
 
-<img width="1151" height="645" alt="image" src="https://github.com/user-attachments/assets/b25ea6ce-88a1-4b2f-b81a-cedbfbaf2182" />
+<img width="576" height="323" alt="image" src="https://github.com/user-attachments/assets/b25ea6ce-88a1-4b2f-b81a-cedbfbaf2182" />
 
 The program uses **OpenCV** to process video frames, identify fish based on HSV color thresholds, detect their positions, and draw their movement trajectories.
 
